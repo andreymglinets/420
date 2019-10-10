@@ -9,11 +9,16 @@ header{
     width: 32px;
     background: url(logo.svg) 100% 100% no-repeat;
     background-size: cover;
+<<<<<<< HEAD
     display: inline-block;
     position: absolute;
+=======
+
+>>>>>>> 63b220a159af436def177a4ad51505f0ad7dc707
 }
 .search_field{
     margin-left: 359px;
+<<<<<<< HEAD
     margin-top: 7px;
     margin-bottom: 7px;
     display: inline-block;
@@ -23,3 +28,6 @@ header{
     border-radius: 14px;
     position: absolute;
 }
+=======
+}
+>>>>>>> 63b220a159af436def177a4ad51505f0ad7dc707
