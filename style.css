@@ -1,15 +1,25 @@
 header{
     background-color: rgb(74, 118, 168);
     height: 42px;
+    position: relative;
 }
-
 .logo
 {
     height: 19px;
     width: 32px;
     background: url(logo.svg) 100% 100% no-repeat;
     background-size: cover;
+    display: inline-block;
+    position: absolute;
 }
-.search{
+.search_field{
     margin-left: 359px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    display: inline-block;
+    width: 240px;
+    height: 28px;
+    border-width: 0px;
+    border-radius: 14px;
+    position: absolute;
 }
